@@ -1,0 +1,17 @@
+button {
+    cursor: pointer;
+    border: none;
+}
+
+button:focus {
+    outline: none;
+}
+
+button:active {
+    transform: translateY(1px);
+    background-color: #777a88;
+}
+
+#display-container {
+    min-height: 5.6rem;
+}
