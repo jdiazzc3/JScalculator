@@ -1,5 +1,3 @@
----
-
 # Calculadora Web con JavaScript y Tailwind CSS
 
 ## Descripción
